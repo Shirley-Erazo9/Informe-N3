@@ -21,3 +21,5 @@ Marco teórico.
 ![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/MP1.jpg)
 
 ![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/MP2.jpg)
+
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/MP3.jpg)
