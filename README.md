@@ -19,3 +19,5 @@ Los circuitos en paralelo tiene una conexión en la que los terminales de todos 
 Marco teórico. 
 
 ![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/MP1.jpg)
+
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/MP2.jpg)
