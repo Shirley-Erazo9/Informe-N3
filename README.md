@@ -182,7 +182,7 @@ SECCIÓN 6–2 Voltaje en un circuito en paralelo.
 
 6.¿Cuál es la resistencia total del circuito visto desde la fuente de voltaje para cada posición del interrup- tor incluido en la figura 6-68?
 
-![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJER%206.png)
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJER%206%20(2).png)
 
 8. ¿Cuál es la corriente total suministrada por la fuente de voltaje que muestra la figura 6-68 para cada po- sición del interruptor?
 
