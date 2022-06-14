@@ -132,14 +132,14 @@ SECCIÓN 5–8 Potencia en circuitos en serie.
 
 46. Cada uno de cinco resistores dispuestos en serie manejan 50 mW. ¿Cuál es la potencia total?
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJER46-S5.png)
 
 48. Los siguientes resistores de 1⁄4 W están dispuestos en serie: 1.2 kÆ, 2.2 kÆ, 3.9 kÆ, y 5.6 kÆ. ¿Cuál es el voltaje máximo que puede ser aplicado a través de estos resistores sin exceder el valor nominal de potencia? ¿Cuál resistor se quemará primero al aplicar un voltaje excesivo?
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJER48-S5.png)
 
 50. Cierto circuito en serie se compone de un resistor de 1⁄8 W, un resistor de 1⁄4 W, y un resistor de 1⁄2 W. La resistencia total es de 2400 Æ. Si cada uno de los resistores opera en el circuito a su máxima disipación de potencia, determine lo siguiente:(a) I (b) (c) VT El valor de cada resistor.
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJER50-S5.png)
 
 
