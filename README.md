@@ -54,34 +54,76 @@ SECCIÓN 5-3. RESISTENCIA TOTAL EN SERIE.
 
 12. Calcule la RT en cada circuito de la figura 5-71.
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJ12.png)
 
 14. Se conectan en serie seis resistores de 56 Æ, ocho de 100 Æ, y dos de 22 Æ. ¿Cuál es la resistencia total?
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJ14.png)
 
 *16. Usted dispone de los siguientes valores de resistor en el laboratorio en cantidades ilimitadas: 10 Æ, 100 Æ, 470 Æ, 560 Æ, 680 Æ, 1.0 kÆ, 2.2 kÆ, y 5.6 kÆ. No hay existencias de todos los demás valores estándar. Un proyecto en el que está trabajando requiere emplear unaresistencia de 18 kÆ. ¿Qué combinación de los valores disponibles utilizaría en serie para lograr la resistencia total?
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJ16.png)
 
-En la figura 5-73, ¿cuál es la resistencia total de A a B con cada posición del interruptor?
+18. En la figura 5-73, ¿cuál es la resistencia total de A a B con cada posición del interruptor?
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJ18.png)
 
 SECCIÓN 5-4. APLICACIÓN DE LA LEY DE OHM.
 
 20. Determine la caída de voltaje a través de cada resistor mostrado en la figura 5-74.
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJ20%20(2).png)
 
 22. Cuatro resistores de igual valor están en serie con una batería de 5 V y se miden 2.23 mA. ¿Cuál es elvalor de cada resistor?
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJ22.png)
 
 24. Determine VR1, R2 y R3 en la figura 5-76.
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJ24.png)
 
 26. Determine la corriente que el medidor de la figura 5-78 lee en cada posición del interruptor calibrado.
+
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJ26.png)
+
+SECCIÓN 5–5 Fuentes de voltaje en serie.
+
+28. El término oposición en serie significa que las fuentes están en serie con polaridades opuestas. Si una batería de 12 V y otra de 3 V están en oposición en serie, ¿cuál es el voltaje total?
+
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJ28.png)
+
+SECCIÓN 5–6 Ley del voltaje de Kirchhoff
+
+30. Se miden las siguientes caídas de voltaje a través de tres resistores dispuestos en serie: 5.5 V, 8.2 V, y 12.3 V. ¿Cuál es el valor del voltaje de la fuente al que están conectados estos resistores?
+
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJ30.png)
+
+32. Determine la caída o las caídas de voltaje no especificadas en cada circuito de la figura 5-80. Muestre cómo conectar un voltímetro para medir cada una de las caídas de voltaje desconocidas.
+
+![](
+
+34. Encuentre R1, R2 y R3 en la figura 5-82.
+
+![](
+
+36. Con el resultado del problema 35, determine el voltaje a través de cada resistor mostrado en la figu- ra 5-83 para cada posición del interruptor.
+
+![](
+
+SECCIÓN 5–7 Divisores de voltaje.
+
+38. Determine el voltaje entre los puntos A y B en cada divisor de voltaje de la figura 5-84.
+
+![](
+
+40. Determine los voltajes mínimo y máximo producidos por el divisor de voltaje de la figura 5-85(b).
+
+![](
+
+42. En cada punto de la figura 5-87, determine el voltaje con respecto al lado negativo de la batería.
+
+![](
+
+44. Con la tabla de valores estándar de resistor dada en el apéndice A, diseñe un divisor de voltaje para produ- cir los siguientes voltajes aproximados con respecto a tierra utilizando una fuente de 30 V; 8.18 V, 14.7 V.
 
 ![](
