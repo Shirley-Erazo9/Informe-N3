@@ -198,4 +198,98 @@ SECCIÓN 6–3 Ley de las corrientes de Kirchhoff.
 
 ![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJER%2012.png)
 
+SECCIÓN 6–4 Resistencia total en paralelo.
+
+14. Los siguientes resistores están conectados en paralelo: 1.0 MÆ, 2.2 MÆ, 5.6 MÆ, 12 MÆ, y 22 MÆ. Determine la resistencia total.
+
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJER14.png)
+
+18. Tres grupos, uno de cinco resistores de 470 Æ, otro de diez resistores de 100 Æ, y uno más de dos re- sistores de 100 Æ están conectados en paralelo. ¿Cuál es la resistencia total para cada uno de los tres agrupamientos?
+
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJER18%20(2).png)
+
+20. Si la resistencia total en la figura 6-71 es de 389.2 Æ, ¿cuál es el valor de R2?
+
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJER20.png)
+
+SECCIÓN 6–5 Aplicación de la ley de Ohm.
+
+22. ¿Cuál es la corriente total en cada uno de los circuitos de la figura 6-73?
+
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJER22.png)
+
+24. Cuatro resistores de igual valor están conectados en paralelo. Se aplican cinco volts al circuito en pa- ralelo y se lee 1.11 mA en la fuente. ¿Cuál es el valor de cada resistor?
+
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJER24.png) 
+
+26. Encuentre los valores de las cantidades marcadas no especificadas en cada circuito de la figura 6-74.
+
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJER26.png)
+
+28. Determine la corriente total suministrada por la fuente y la corriente a través de cada resistor para cada una de las posiciones de interruptor mostradas en la figura 6-76.
+
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJER28.png) 
+
+SECCIÓN 6–6 Fuentes de corriente en paralelo.
+
+30. Determine la corriente a través de RL en cada uno de los circuitos de la figura 6-78.
+
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJ30S6.png)
+
+SECCIÓN 6–7 Divisores de corriente.
+
+32. ¿Cuánta corriente deberán indicar los medidores de la figura 6-80 a través de cada rama?
+
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJ32S6.png)
+
+34. ¿Cuál es la corriente a través de cada resistor mostrado en la figura 6-82? R es el resistor de valor más bajo, y todos los demás valores son múltiplos de éste como se indica.
+
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJ34S6S.png)
+
+36. (a) Determine el valor requerido del resistor en derivación RSH1 en el amperímetro de la figura 6-49 si la resistencia del movimiento de medidor es de 50 Æ. (b) Encuentre el valor requerido para RSH2 en el circuito medidor de la figura 6-50 (RM 50 Æ).
+
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJ36S6.png) 
+
+38. Cada resistor de un grupo de cinco dispuesto en paralelo maneja 250 mW. ¿Cuál es la potencia total?
+
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJ38S6.png) 
+
+40. Seis focos están conectados en paralelo entre los extremos de una fuente de 110 V. Cada foco es de 75 W. ¿Cuál es la corriente a través de cada foco, y cuál es la corriente total?
+
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJ40S6.png)
+
+42. Cierto circuito en paralelo está compuesto por resistores de sólo 1⁄2 W. La resistencia total es de 1.0 kÆ, y la corriente total es de 50 mA. Si cada resistor opera a la mitad de su nivel de potencia máxima, determine lo siguiente:
+
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJ42S6.png) 
+
+SECCIÓN 6–10 Localización de fallas.
+
+44. En la figura 6-85, se indican las mediciones de corriente y voltaje. ¿Se ha abierto un resistor, y, de ser así, cuál?
+
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJ44S6.png)
+
+46. ¿Qué está mal con el circuito de la figura 6-86 si el medidor lee 5.55 mA?
+
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJE46S6.png)
+
+48. Para la tarjeta de circuito mostrada en la figura 6-88, determine la resistencia entre las siguientes pun- tas si hay un corto entre las puntas 2 y 4:(a) 1 y 2 (b) 2 y 3 (c) 3 y 4 (d) 1 y 4
+
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJER48S6.png)
+
+CONCLUSIONES.
+
+Determinamos que en un circuito en serie cada uno de los elementos está conectado con el siguiente mediante un solo punto de conexión, de igual manera que la corriente solo dispone de un camino único para fluir.
+
+Podemos decir que el circuito en paralelo es aquel en el cual los elementos del mismo están dispuestos de forma "paralela"  que quiere decir uno de otro, por tanto el flujo de corriente se "divide" por cada rama del circuito, el valor de cada sub corriente no siempre es el mismo, ya que cada carga (resistencia) tiene su valor propio.
+
+Concluimos que es muy importante aplicar la Ley de Ohm en los diferentes circuitos. 
+
+BIBLIOGRAFÍA.
+
+ Floyd, T. (2007). Principios de circuitos eléctricos (8.a ed., Vol. 1). Pearson Education. http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf 0 comments on commit 73edc1a
+ 
+ RÚBRICA.
+ 
+ ![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/RUB.png)
+
 
