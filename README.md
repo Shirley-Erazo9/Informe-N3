@@ -114,16 +114,32 @@ SECCIÓN 5–7 Divisores de voltaje.
 
 38. Determine el voltaje entre los puntos A y B en cada divisor de voltaje de la figura 5-84.
 
-![](B
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJER38.png)
 
 40. Determine los voltajes mínimo y máximo producidos por el divisor de voltaje de la figura 5-85(b).
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJER40.png)
 
 42. En cada punto de la figura 5-87, determine el voltaje con respecto al lado negativo de la batería.
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJER42.png)
 
 44. Con la tabla de valores estándar de resistor dada en el apéndice A, diseñe un divisor de voltaje para produ- cir los siguientes voltajes aproximados con respecto a tierra utilizando una fuente de 30 V; 8.18 V, 14.7 V.
 
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJER44%20(2).png)
+
+SECCIÓN 5–8 Potencia en circuitos en serie.
+
+46. Cada uno de cinco resistores dispuestos en serie manejan 50 mW. ¿Cuál es la potencia total?
+
 ![](
+
+48. Los siguientes resistores de 1⁄4 W están dispuestos en serie: 1.2 kÆ, 2.2 kÆ, 3.9 kÆ, y 5.6 kÆ. ¿Cuál es el voltaje máximo que puede ser aplicado a través de estos resistores sin exceder el valor nominal de potencia? ¿Cuál resistor se quemará primero al aplicar un voltaje excesivo?
+
+![](
+
+50. Cierto circuito en serie se compone de un resistor de 1⁄8 W, un resistor de 1⁄4 W, y un resistor de 1⁄2 W. La resistencia total es de 2400 Æ. Si cada uno de los resistores opera en el circuito a su máxima disipación de potencia, determine lo siguiente:(a) I (b) (c) VT El valor de cada resistor.
+
+![](
+
+
