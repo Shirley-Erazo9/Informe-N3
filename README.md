@@ -96,19 +96,19 @@ SECCIÓN 5–6 Ley del voltaje de Kirchhoff
 
 30. Se miden las siguientes caídas de voltaje a través de tres resistores dispuestos en serie: 5.5 V, 8.2 V, y 12.3 V. ¿Cuál es el valor del voltaje de la fuente al que están conectados estos resistores?
 
-![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJ30.png)
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJ30S5.png)
 
 32. Determine la caída o las caídas de voltaje no especificadas en cada circuito de la figura 5-80. Muestre cómo conectar un voltímetro para medir cada una de las caídas de voltaje desconocidas.
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJ32.png)
 
 34. Encuentre R1, R2 y R3 en la figura 5-82.
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJE34.png)
 
 36. Con el resultado del problema 35, determine el voltaje a través de cada resistor mostrado en la figu- ra 5-83 para cada posición del interruptor.
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJ36.png)
 
 SECCIÓN 5–7 Divisores de voltaje.
 
