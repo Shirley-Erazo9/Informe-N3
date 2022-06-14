@@ -114,7 +114,7 @@ SECCIÓN 5–7 Divisores de voltaje.
 
 38. Determine el voltaje entre los puntos A y B en cada divisor de voltaje de la figura 5-84.
 
-![](
+![](B
 
 40. Determine los voltajes mínimo y máximo producidos por el divisor de voltaje de la figura 5-85(b).
 
