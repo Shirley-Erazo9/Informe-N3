@@ -142,4 +142,60 @@ SECCIÓN 5–8 Potencia en circuitos en serie.
 
 ![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJER50-S5.png)
 
+SECCIÓN 5–9 Mediciones de voltaje.
+
+52.En la figura 5-91, ¿cómo determinaría el voltaje en R2 por medición, sin conectar un medidor directa- mente a través del resistor?
+
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJER52%20-%20S9.png)
+
+SECCIÓN 5–10 Localización de fallas.
+
+54. Se conecta una serie de cinco resistores a través de una batería de 12 V. Se miden 0 volts en todos los resistores excepto en R2. ¿Qué está mal en el circuito? ¿Qué voltaje se medirá a través de R2?
+
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJER54%20%20S9.png)
+
+56.¿Cuál corriente mediría usted en la figura 5-91(b) si sólo R2 estuviera en cortocircuito?
+
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJER56%20-%20S9.png)
+
+58.Se leen 15 kÆ entre las puntas 5 y 6 de la tarjeta de circuito impreso mostrada en la figura 5-93. ¿Indi- ca esto un problema? De ser así, identifíquelo.
+
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJER58%20-%20S9.png) 
+
+60. Los tres grupos de resistores en serie mostrados en la tarjeta de circuito impreso de la figura 5-93 es- tán conectados en serie entre sí para formar un solo circuito en serie conectando la punta 2 a la 4 y la 3 a la 5. Se conecta una fuente de voltaje entre las puntas 1 y 6 y se coloca un amperímetro en serie. Con- forme aumenta el voltaje de la fuente, se observa el incremento correspondiente de la corriente. De im- proviso, la corriente se reduce a cero y huele a humo. Todos los resistores son de 1⁄2 W.
+
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJER60%20-%20S9.png)
+
+CAPÍTULO 4.
+
+SECCIÓN 6–1 Resistores en paralelo.
+
+2. Determine si todos los resistores de la figura 6-65(b) están conectados o no en paralelo en la tarjeta de circuito impreso.
+
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJER%202.png)
+
+SECCIÓN 6–2 Voltaje en un circuito en paralelo.
+
+4. ¿Cuál es el voltaje entre los extremos y la corriente a través de cada resistor en paralelo si el voltaje to- tal es de 12 V y la resistencia total de 550 Æ? Hay cuatro resistores, todos de igual valor.
+
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJER%204.png)
+
+6.¿Cuál es la resistencia total del circuito visto desde la fuente de voltaje para cada posición del interrup- tor incluido en la figura 6-68?
+
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJER%206.png)
+
+8. ¿Cuál es la corriente total suministrada por la fuente de voltaje que muestra la figura 6-68 para cada po- sición del interruptor?
+
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJER%208%20.png)
+
+SECCIÓN 6–3 Ley de las corrientes de Kirchhoff.
+
+10. Un total de 500 mA entra a cinco resistores en paralelo. Las corrientes a través de los resistores son de: 50 mA, 150 mA, 25 mA y 100 mA. ¿Cuál es la corriente a través del quinto resistor?
+
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJER%2010.png)
+
+12. En cierta habitación, el circuito eléctrico tiene una lámpara de cielo que consume 1.25 A y cuatro to- mas de corriente de pared. Dos lámparas de mesa que consumen cada una 0.833 A están conectadas a dos tomas de corriente, y un calentador eléctrico que consume 10 A está conectado a la tercer toma de corriente. Cuando todos estos elementos están en uso, ¿cuánta corriente hay en la línea principal que abastece a la habitación? Si la línea principal está protegida por un cortacircuito de 15 A, ¿cuánta co- rriente puede ser absorbida de la cuarta toma de corriente? Trace un diagrama esquemático de esta ins- talación eléctrica.
+
+![](https://github.com/Shirley-Erazo9/Informe-N3/blob/main/EJER%2012.png)
+
 
